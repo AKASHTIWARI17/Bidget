@@ -1,0 +1,92 @@
+[
+    {
+        "id": "1",
+        "img": "assets/images/blog/bb1.png",
+        "standard_img": "assets/images/blog/b-standard1.png",
+        "standard_title": "How To Determine A Bidding Strategy For Different Types Of Ads Different Good",
+        "standard_description": "When I first learned how to ride a bike, I remember being scared. It was a daunting process because I'd never done it before and was terrified of falling. I actually remember feeling similarly when I first started getting into paid advertising campaigns at the marketing",
+        "title": "Dolor Lorem Turpis Orci, Nunc Suscipit Tortor, Habitasse Et In",
+        "date": "March 9, 2021",
+        "authorName": "Robart Fox",
+        "authorImg": "assets/images/blog/blog-writer1.png",
+        "description": "Lorem ipsum dolor sit amet, cras non sagittis pellentes que donec, nunc eleifend"
+    },
+    {
+        "id": "2",
+        "img": "assets/images/blog/bb2.png",
+        "standard_img": "assets/images/blog/b-standard2.png",
+        "standard_title": "Proofing Your Blog Post Is The Last Step In The Setup Of An SEO Friendly Auction.",
+        "standard_description": "When I first learned how to ride a bike, I remember being scared. It was a daunting process because I'd never done it before and was terrified of falling. I actually remember feeling similarly when I first started getting into paid advertising campaigns at the marketing",
+        "title": "Magna Venenatis, Sed Sed, Amet Lec Tus, Bibendum",
+        "date": "March 9, 2021",
+        "authorName": "Robart Fox",
+        "authorImg": "assets/images/blog/blog-writer1.png",
+        "description": "Lorem ipsum dolor sit amet, cras non sagittis pellentes que donec, nunc eleifend"
+    },
+    {
+        "id": "3",
+        "img": "assets/images/blog/bb3.png",
+        "standard_img": "assets/images/blog/b-standard1.png",
+        "standard_title": "Fifth Consecutive Year That Hyundai Is Recognized By Jameron Williamson",
+        "standard_description": "When I first learned how to ride a bike, I remember being scared. It was a daunting process because I'd never done it before and was terrified of falling. I actually remember feeling similarly when I first started getting into paid advertising campaigns at the marketing",
+        "title": "Magna Venenatis, Sed Sed, Amet Lec Tus, Bibendum",
+        "date": "March 9, 2021",
+        "authorName": "Robart Fox",
+        "authorImg": "assets/images/blog/blog-writer1.png",
+        "description": "Lorem ipsum dolor sit amet, cras non sagittis pellentes que donec, nunc eleifend"
+    },
+    {
+        "id": "4",
+        "img": "assets/images/blog/bb4.png",
+        "title": "Hella Kogi Whatever, Small Batch Pickled",
+        "date": "March 9, 2021",
+        "authorName": "Robart Fox",
+        "authorImg": "assets/images/blog/blog-writer1.png",
+        "description": "Lorem ipsum dolor sit amet, cras non sagittis pellentes que donec, nunc eleifend"
+    },
+    {
+        "id": "5",
+        "img": "assets/images/blog/bb5.png",
+        "title": "Winner Of Auction Auction Will Get Gift",
+        "date": "March 9, 2021",
+        "authorName": "Robart Fox",
+        "authorImg": "assets/images/blog/blog-writer1.png",
+        "description": "Lorem ipsum dolor sit amet, cras non sagittis pellentes que donec, nunc eleifend"
+    },
+    {
+        "id": "6",
+        "img": "assets/images/blog/bb10.png",
+        "title": "Winner Of Auction Auction Will Get Gift",
+        "date": "March 9, 2021",
+        "authorName": "Robart Fox",
+        "authorImg": "assets/images/blog/blog-writer1.png",
+        "description": "Lorem ipsum dolor sit amet, cras non sagittis pellentes que donec, nunc eleifend"
+    },
+    {
+        "id": "7",
+        "img": "assets/images/blog/bb7.png",
+        "title": "Amet Pulvinar Varius Phare Trasem Tristique",
+        "date": "March 9, 2021",
+        "authorName": "Robart Fox",
+        "authorImg": "assets/images/blog/blog-writer1.png",
+        "description": "Lorem ipsum dolor sit amet, cras non sagittis pellentes que donec, nunc eleifend"
+    },
+    {
+        "id": "8",
+        "img": "assets/images/blog/bb8.png",
+        "title": "Magna Venenatis, Sed Sed, Amet Lec Tus, Bibendum",
+        "date": "March 9, 2021",
+        "authorName": "Robart Fox",
+        "authorImg": "assets/images/blog/blog-writer1.png",
+        "description": "Lorem ipsum dolor sit amet, cras non sagittis pellentes que donec, nunc eleifend"
+    },
+    {
+        "id": "9",
+        "img": "assets/images/blog/bb9.png",
+        "title": "A Brand For A Company Is Like A Reputation For A Person",
+        "date": "March 9, 2021",
+        "authorName": "Robart Fox",
+        "authorImg": "assets/images/blog/blog-writer1.png",
+        "description": "Lorem ipsum dolor sit amet, cras non sagittis pellentes que donec, nunc eleifend"
+    }
+]
